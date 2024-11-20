@@ -1,2 +1,2 @@
 # RepTreeFL
-TODO
+Federated learning from limited data using model replica.
